@@ -19,9 +19,9 @@ function Footer() {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-        <a href="https://www.facebook.com"><FaFacebookF/></a>
-        <a href="https://www.instagram.com"><FiInstagram/></a>
-        <a href="https://www.twitter.com"><IoLogoTwitter/></a>
+        <a href="https://www.facebook.com/profile.php?id=100078278653027" target='_blank'><FaFacebookF/></a>
+        <a href="https://www.instagram.com/kimani_washington/" target='_blank'><FiInstagram/></a>
+        <a href="https://www.twitter.com" target='_blank'><IoLogoTwitter/></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; Washington-Kimani. All Rights Reserved</small>

@@ -14,42 +14,42 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Cryto currency Dashboard and Finance Visualisation',
-    github: 'https://github.com',
+    github: 'https://github.com/Washington-Kimani',
     demo: 'https://dribbble.com'
   },
   {
     id: 2,
     image: IMG2,
     title: 'Chats, Templates and inforgraphics in Figma',
-    github: 'https://github.com',
+    github: 'https://github.com/Washington-Kimani',
     demo: 'https://dribbble.com'
   },
   {
     id: 3,
     image: IMG3,
     title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
+    github: 'https://github.com/Washington-Kimani',
     demo: 'https://dribbble.com'
   },
   {
     id: 4,
     image: IMG4,
     title: 'Chats, Templates and inforgraphics in Figma',
-    github: 'https://github.com',
+    github: 'https://github.com/Washington-Kimani',
     demo: 'https://dribbble.com'
   },
   {
     id: 5,
     image: IMG5,
     title: 'Maintaining tasks and tracking progress.',
-    github: 'https://github.com',
+    github: 'https://github.com/Washington-Kimani',
     demo: 'https://dribbble.com'
   },
   {
     id: 6,
     image: IMG6,
     title: 'Chats, Templates and inforgraphics in Figma',
-    github: 'https://github.com',
+    github: 'https://github.com/Washington-Kimani',
     demo: 'https://dribbble.com'
   },
 ]
